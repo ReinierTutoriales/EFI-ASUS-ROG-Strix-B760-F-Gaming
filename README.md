@@ -11,7 +11,7 @@
 - WiFi Card: 
 
 
-### Configuración de Bios
+### Configuración del Bios
 
 ```
 Advanced
