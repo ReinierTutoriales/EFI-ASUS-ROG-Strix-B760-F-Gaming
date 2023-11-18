@@ -7,8 +7,10 @@
 - CPU: Intel Core i9-14900KF
 - RAM: CORSAIR VENGEANCE RGB DDR5 RAM 64 GB
 - GPU: XFX Speedster MERC319 RX 6950XT
+- Audio: ROG SupremeFX 7.1 Surround Sound High Definition Audio CODEC ALC4080
 - Ethernet Card: Intel® 2.5Gb Ethernet
-- WiFi Card: 
+- WiFi Card: Wi-Fi 6E
+
 
 
 ### Configuración del Bios
