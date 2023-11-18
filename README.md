@@ -4,7 +4,7 @@
 ### Hardware
 
 - Motherboard: ROG STRIX B760-F GAMING WiFi
-- Bios Version:1402（19/09/2023）
+- Bios Version: 1402（19/09/2023）
 - CPU: Intel Core i9-14900KF
 - RAM: CORSAIR VENGEANCE RGB DDR5 RAM 64 GB
 - GPU: XFX Speedster MERC319 RX 6950XT
