@@ -1,3 +1,4 @@
+![image](IMG/B760-F.JPG)
 # EFI-ASUS-ROG-Strix-B760-F-Gaming
 
 ### Hardware
