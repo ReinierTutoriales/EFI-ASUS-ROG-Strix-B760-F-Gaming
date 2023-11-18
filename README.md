@@ -1,5 +1,15 @@
 # EFI-ASUS-ROG-Strix-B760-F-Gaming
 
+### Hardware
+
+- Motherboard: ROG STRIX B760-F GAMING WiFi
+- Bios Version:1003（2023/04/20）
+- CPU: Intel Core i9-14900KF
+- RAM: CORSAIR VENGEANCE RGB DDR5 RAM 64 GB
+- GPU: XFX Speedster MERC319 RX 6950XT
+- Ethernet Card: Intel® 2.5Gb Ethernet
+- WiFi Card: 
+
 
 ### Configuración de Bios
 
